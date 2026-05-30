@@ -3,12 +3,12 @@
 <h3 align="center">Frontend Developer & UX/UI Designer</h3>
 
 <p align="center">
-Creating modern digital products, interfaces and web experiences.
+I build modern digital products, interfaces and web experiences.
 </p>
 
 <p align="center">
   <a href="https://github.com/rahmatshoh-1">
-    <img src="https://komarev.com/ghpvc/?username=rahmatshoh-1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=rahmatshoh-1&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -16,158 +16,117 @@ Creating modern digital products, interfaces and web experiences.
 
 ## 🚀 About Me
 
-Frontend Developer and UX/UI Designer with commercial experience in web development, WordPress ecosystem, landing pages, corporate websites and digital product design.
+Frontend Developer & UX/UI Designer with experience in commercial web development, WordPress ecosystems, landing pages, corporate websites, and product design.
 
-I specialize in creating modern interfaces, responsive websites and complete web solutions — from UX research and design systems in Figma to frontend development and backend integrations.
+I focus on creating clean UI, scalable frontend architecture, and full-cycle web solutions — from UX/UI design in Figma to development and backend integration.
 
 ### Focus Areas
-
 - Frontend Development
 - UX/UI Design
 - WordPress Development
 - Landing Pages
 - Corporate Websites
 - CRM Integration
-- Figma Design Systems
-- Website Optimization
+- Design Systems (Figma)
+- Web Optimization
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<table>
+<tr>
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<td align="center" width="33%">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🎨 Frontend
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DFE1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"><br>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+</td>
 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<td align="center" width="33%">
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"><br>
+<img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/amoCRM-005EFF?style=for-the-badge">
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎯 Design
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"><br>
+<img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-### Backend
+## 💼 Experience
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### CMS
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-![Tilda](https://img.shields.io/badge/Tilda-000000?style=for-the-badge)
-
----
-
-### Design
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-
----
-
-## 💼 Professional Experience
-
-### Middle Full Stack Developer & UX/UI Designer
+### Middle Full Stack Developer & UX/UI Designer  
 **TeMa Group (2022 — 2024)**
 
-- UX/UI Design in Figma
-- Frontend & Backend Development
-- amoCRM Integration
-- Roistat Analytics Setup
-- Landing Pages & Corporate Websites
-- SEO Optimization
-- Form Processing & Integrations
+- UX/UI Design in Figma  
+- Frontend & Backend Development  
+- CRM (amoCRM) Integration  
+- Analytics (Roistat) Setup  
+- Landing & Corporate Websites  
+- SEO Optimization  
+- Form & API Integration  
 
-### Frontend Developer
+---
+
+### Frontend Developer  
 **Livo IT Company (2020 — 2022)**
 
-- WordPress Development
-- Responsive Layout Development
-- Custom Website Features
-- Plugin & Slider Integration
-- Website Maintenance
+- WordPress Development  
+- Responsive Layouts  
+- Custom Features Development  
+- Plugin Integration  
+- Website Maintenance  
 
 ---
 
 ## 🌟 Featured Projects
 
-### Vacuum Agency
-
-Modern digital agency website focused on clean visual design and conversion-oriented user experience.
-
-🔗 https://vacuum.agency/
-
----
-
-### SSB Tajikistan
-
-Corporate website with modern structure and business-oriented UX.
-
-🔗 https://ssb.tj
-
----
-
-### Falcon Capital
-
-Investment and finance company website.
-
-🔗 http://falconcapital.uz/
-
----
-
-### Space Tourism
-
-Frontend project built with modern technologies and responsive UI.
-
-🔗 https://space-tourism-pied-alpha.vercel.app/
-
----
-
-### Nurtown
-
-Modern architectural and real estate web interface.
-
-🔗 https://nurtown-kohl.vercel.app/home
+- Vacuum Agency → https://vacuum.agency/
+- SSB Tajikistan → https://ssb.tj
+- Falcon Capital → http://falconcapital.uz/
+- Space Tourism → https://space-tourism-pied-alpha.vercel.app/
+- Nurtown → https://nurtown-kohl.vercel.app/home
 
 ---
 
 ## 🎨 UX/UI Case Studies
 
-### Tiksan Group
-
-Corporate identity and website design.
-
-🔗 https://www.behance.net/gallery/232765533/Tiksan-Group
-
-### Tajikistan Travel Guide
-
-Tourism platform UX/UI design.
-
-🔗 https://www.behance.net/gallery/231358345/putevoditel-po-tadzhikistanu
-
-### Building Elegant
-
-Corporate website concept and interface design.
-
-🔗 https://www.behance.net/gallery/232267153/Building-Elegant-(Corporate)
+- Tiksan Group → https://www.behance.net/gallery/232765533/Tiksan-Group
+- Tajikistan Guide → https://www.behance.net/gallery/231358345/putevoditel-po-tadzhikistanu
+- Building Elegant → https://www.behance.net/gallery/232267153/Building-Elegant-(Corporate)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahmatshoh-1&show_icons=true&theme=tokyonight" />
@@ -179,36 +138,15 @@ Corporate website concept and interface design.
 
 ---
 
-## 🌐 Portfolio & Contacts
+## 🌐 Contact
 
-### Behance
-
-https://www.behance.net/rahmatshoh
-
-### GitHub
-
-https://github.com/rahmatshoh-1
-
-### Telegram
-
-https://t.me/Rahmatshoh
-
-### Email
-
-rahmatshoh.rahmonov@gmail.com
-
----
-
-## 🎯 Current Goals
-
-- Advanced Vue.js Development
-- Modern Full Stack Architecture
-- Scalable Web Applications
-- UX/UI Systems Design
-- High Performance Websites
+- Telegram: https://t.me/Rahmatshoh  
+- Email: rahmatshoh.rahmonov@gmail.com  
+- GitHub: https://github.com/rahmatshoh-1  
+- Behance: https://www.behance.net/rahmatshoh  
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile 🚀
+🔥 Thanks for visiting my profile
 </p>
